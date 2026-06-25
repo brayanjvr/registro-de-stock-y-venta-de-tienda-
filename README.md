@@ -1,1 +1,0 @@
-# registro-de-stock-y-venta-de-tienda-
