@@ -1,0 +1,4 @@
+Bebidas,Big Cola,36,2.5
+Bebidas,Inca Cola,16,3.5
+Fideos,Spaguetti,30,2.7
+Lacteos,Leche Gloria,36,4.5
